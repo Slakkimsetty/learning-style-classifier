@@ -26,8 +26,3 @@ Students often struggle to study effectively because they don’t understand the
 | ML Models | scikit-learn |
 | Data Handling | pandas, numpy |
 | Visualization | seaborn, matplotlib |
-
----
-
-## 📁 Folder Structure
-
