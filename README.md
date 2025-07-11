@@ -13,7 +13,7 @@ Students often struggle to study effectively because they don’t understand the
 ## 🚀 Features
 
 - Predicts VARK learning style using survey inputs
-- Compares 4 models: Logistic Regression, Decision Tree, Random Forest, KNN
+- Compares 3 models: Logistic Regression, Decision Tree, Random Forest
 - Interactive Streamlit app to test live predictions
 - Fully explained step-by-step in notebooks
 
@@ -26,7 +26,6 @@ Students often struggle to study effectively because they don’t understand the
 | ML Models | scikit-learn |
 | Data Handling | pandas, numpy |
 | Visualization | seaborn, matplotlib |
-| App | Streamlit + pyngrok (for testing in Colab) |
 
 ---
 
